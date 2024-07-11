@@ -1,0 +1,37 @@
+{
+   "name": "mma-ibk",
+   "version": "0.0.1",
+   "description": "Awesome project developed with TypeORM.",
+   "devDependencies": {
+      "@babel/plugin-proposal-decorators": "^7.24.7",
+      "@babel/preset-env": "^7.24.7",
+      "@babel/preset-typescript": "^7.24.7",
+      "@jest/globals": "^29.7.0",
+      "@types/bcrypt": "^5.0.2",
+      "@types/jsonwebtoken": "^9.0.6",
+      "@types/node": "^16.18.101",
+      "fastify": "^4.28.1",
+      "fastify-autoload": "^3.13.0",
+      "supertest": "^7.0.0",
+      "ts-jest": "^29.2.1",
+      "ts-node": "^10.9.1",
+      "typescript": "^5.5.3"
+   },
+   "dependencies": {
+      "@fastify/autoload": "^4.0.0",
+      "@fastify/middie": "^8.3.1",
+      "@types/jest": "^29.5.12",
+      "bcrypt": "^5.1.1",
+      "jsonwebtoken": "^9.0.2",
+      "mysql2": "^3.10.2",
+      "nodemon": "^3.1.4",
+      "reflect-metadata": "^0.1.14",
+      "typeorm": "0.3.20",
+      "winston": "^3.13.0"
+   },
+   "scripts": {
+      "start": "ts-node src/index",
+      "typeorm": "typeorm-ts-node-commonjs",
+      "test": "jest"
+   }
+}

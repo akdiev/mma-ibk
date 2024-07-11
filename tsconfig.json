@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["es5"],
+    "target": "ES5",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+  }
+}

@@ -1,0 +1,14 @@
+{"level":"error","message":"All fields are required","timestamp":"2024-07-10T11:38:25.446Z"}
+{"level":"error","message":"All fields are required","timestamp":"2024-07-10T11:39:52.724Z"}
+{"level":"error","message":"All fields are required","timestamp":"2024-07-10T11:40:44.406Z"}
+{"level":"error","message":"All fields are required","timestamp":"2024-07-10T11:44:17.341Z"}
+{"code":"ENOENT","errno":-2,"level":"error","path":"/home/aki/sites/MyProject/src/routes","syscall":"scandir","timestamp":"2024-07-10T12:20:26.279Z"}
+{"code":"ENOENT","errno":-2,"level":"error","path":"/home/aki/sites/MyProject/src/routes","syscall":"scandir","timestamp":"2024-07-10T12:21:54.123Z"}
+{"code":"ENOENT","errno":-2,"level":"error","path":"/home/aki/sites/MyProject/src./router.ts","syscall":"scandir","timestamp":"2024-07-10T12:22:18.172Z"}
+{"code":"ENOTDIR","errno":-20,"level":"error","path":"/home/aki/sites/MyProject/src/router.ts","syscall":"scandir","timestamp":"2024-07-10T12:22:32.521Z"}
+{"address":"127.0.0.1","code":"EADDRINUSE","errno":-98,"level":"error","port":3334,"syscall":"listen","timestamp":"2024-07-11T08:21:05.418Z"}
+{"address":"127.0.0.1","code":"EADDRINUSE","errno":-98,"level":"error","port":3334,"syscall":"listen","timestamp":"2024-07-11T09:09:16.457Z"}
+{"address":"127.0.0.1","code":"EADDRINUSE","errno":-98,"level":"error","port":3334,"syscall":"listen","timestamp":"2024-07-11T09:09:47.867Z"}
+{"address":"127.0.0.1","code":"EADDRINUSE","errno":-98,"level":"error","port":3334,"syscall":"listen","timestamp":"2024-07-11T09:13:19.461Z"}
+{"address":"127.0.0.1","code":"EADDRINUSE","errno":-98,"level":"error","port":3334,"syscall":"listen","timestamp":"2024-07-11T09:14:08.391Z"}
+{"address":"127.0.0.1","code":"EADDRINUSE","errno":-98,"level":"error","port":3334,"syscall":"listen","timestamp":"2024-07-11T09:20:15.034Z"}
